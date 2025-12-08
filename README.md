@@ -34,18 +34,8 @@
 ### Certificate
 <img src="cert.png" width="25%"/> <img src="agile_cert.png" width="25%"/> <img src="sdlc_cert.png" width="25%"/> <img src="patterns_cert.png" width="25%"/>
 
-  
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdv188&layout=compact&theme=tokyonight" width="36%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=cdv188&show_icons=true&theme=tokyonight" width="48%" />
-</p>
-
 ---
 
 ### 🔗 Let's Connect
 
-Feel free to reach out via [email](mailto:vale0192@algonquinlive.com) or connect with me on [LinkedIn](www.linkedin.com/in/chestervalencerina).
+Feel free to reach out via [email](mailto:ggvalencerina@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/chestervalencerina).
