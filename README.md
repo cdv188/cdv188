@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://react-tailwind-portfolio-nu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:vale0192@algonquinlive.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ggvalencerina1123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/chestervalencerina/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -38,4 +38,4 @@
 
 ### 🔗 Let's Connect
 
-Feel free to reach out via [email](mailto:ggvalencerina@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/chestervalencerina).
+Feel free to reach out via [email](mailto:ggvalencerina1123@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/chestervalencerina).
