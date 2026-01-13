@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Chester Don Valencerina!</h1>
+<h1 align="center">Hi, I'm Chester!</h1>
 <h3 align="center">I'm a developer with a drive for learning new technologies and I'm always looking for new challenges. </h3>
 
 <p align="center">
